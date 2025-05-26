@@ -37,15 +37,15 @@ cd NaniteModelConverter
 
 1. Open `NaniteConverter.uproject` once in Unreal Editor to generate Visual Studio files.
 2. Compile the solution in **Development Editor** mode from Visual Studio.
-3. Ensure the folder structure remains:
+3. Final recomended structure:
 
 ```
 /NaniteModelConverter
 ├── Engine_Binaries_Min/
 ├── Proyecto_Unreal_Conversion/
 ├── Scripts/
-├── UI/
-├── Models_Convertidos/
+├── Logs/
+├── Output/
 ```
 
 4. To build from command line:
