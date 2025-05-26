@@ -20,8 +20,8 @@ Unreal Engine 5.4 does **not** support runtime generation of Nanite data. This t
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-user>/NaniteModelConverter.git
-cd NaniteModelConverter
+git clone https://github.com/jagv94/NaniteConverter.git
+cd NaniteConverter
 ```
 
 ### System Requirements
