@@ -42,7 +42,7 @@ cd NaniteModelConverter
 ```
 /NaniteModelConverter
 ├── Engine_Binaries_Min/
-├── Proyecto_Unreal_Conversion/
+├── Unreal_Conversion_Project/
 ├── Scripts/
 ├── Logs/
 ├── Output/
