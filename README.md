@@ -31,7 +31,7 @@ cd NaniteModelConverter
 * Visual Studio 2019/2022 with C++ toolchain
 * Assimp DLLs (already included)
 
-> ⚠️ A future update aims to ship with a minimal, headless UE binary setup. Currently, a full official installation is necessary due to cooking requirements.
+> ⚠️ Currently, a full official installation is necessary due to cooking requirements.
 
 ### Build Instructions
 
