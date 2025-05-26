@@ -1,0 +1,68 @@
+[
+	{
+		"file": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Intermediate/Build/Win64/UnrealEditor/Inc/NaniteConverterEditor/UHT/FBXToNaniteCommandlet.gen.cpp",
+		"command": "\"C:/Program Files/LLVM/bin/clang-cl.exe\" @\"C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/NaniteConverterEditor/FBXToNaniteCommandlet.gen.cpp.obj.rsp\"",
+		"directory": "C:/Program Files/Epic Games/UE_5.4/Engine/Source",
+		"output": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/NaniteConverterEditor/FBXToNaniteCommandlet.gen.cpp.obj"
+	},
+	{
+		"file": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Intermediate/Build/Win64/UnrealEditor/Inc/NaniteConverterEditor/UHT/NaniteConverterEditor.init.gen.cpp",
+		"command": "\"C:/Program Files/LLVM/bin/clang-cl.exe\" @\"C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/NaniteConverterEditor/NaniteConverterEditor.init.gen.cpp.obj.rsp\"",
+		"directory": "C:/Program Files/Epic Games/UE_5.4/Engine/Source",
+		"output": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/NaniteConverterEditor/NaniteConverterEditor.init.gen.cpp.obj"
+	},
+	{
+		"file": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Source/FBXToNaniteEditor/Private/FBXImporterLibrary.cpp",
+		"command": "\"C:/Program Files/LLVM/bin/clang-cl.exe\" @\"C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/FBXImporterLibrary.cpp.obj.rsp\"",
+		"directory": "C:/Program Files/Epic Games/UE_5.4/Engine/Source",
+		"output": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/FBXImporterLibrary.cpp.obj"
+	},
+	{
+		"file": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Source/FBXToNaniteEditor/Private/FBXToNaniteEditorModule.cpp",
+		"command": "\"C:/Program Files/LLVM/bin/clang-cl.exe\" @\"C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/FBXToNaniteEditorModule.cpp.obj.rsp\"",
+		"directory": "C:/Program Files/Epic Games/UE_5.4/Engine/Source",
+		"output": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/FBXToNaniteEditorModule.cpp.obj"
+	},
+	{
+		"file": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Source/FBXToNaniteEditor/Private/FBXToNaniteImporter.cpp",
+		"command": "\"C:/Program Files/LLVM/bin/clang-cl.exe\" @\"C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/FBXToNaniteImporter.cpp.obj.rsp\"",
+		"directory": "C:/Program Files/Epic Games/UE_5.4/Engine/Source",
+		"output": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/FBXToNaniteImporter.cpp.obj"
+	},
+	{
+		"file": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Source/FBXToNaniteEditor/Private/MapEditor.cpp",
+		"command": "\"C:/Program Files/LLVM/bin/clang-cl.exe\" @\"C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/MapEditor.cpp.obj.rsp\"",
+		"directory": "C:/Program Files/Epic Games/UE_5.4/Engine/Source",
+		"output": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/MapEditor.cpp.obj"
+	},
+	{
+		"file": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Source/FBXToNaniteEditor/Private/MaterialCreator.cpp",
+		"command": "\"C:/Program Files/LLVM/bin/clang-cl.exe\" @\"C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/MaterialCreator.cpp.obj.rsp\"",
+		"directory": "C:/Program Files/Epic Games/UE_5.4/Engine/Source",
+		"output": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/MaterialCreator.cpp.obj"
+	},
+	{
+		"file": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Source/FBXToNaniteEditor/Private/TextureImporter.cpp",
+		"command": "\"C:/Program Files/LLVM/bin/clang-cl.exe\" @\"C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/TextureImporter.cpp.obj.rsp\"",
+		"directory": "C:/Program Files/Epic Games/UE_5.4/Engine/Source",
+		"output": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/TextureImporter.cpp.obj"
+	},
+	{
+		"file": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Source/FBXToNaniteEditor/Private/UImageUtils.cpp",
+		"command": "\"C:/Program Files/LLVM/bin/clang-cl.exe\" @\"C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/UImageUtils.cpp.obj.rsp\"",
+		"directory": "C:/Program Files/Epic Games/UE_5.4/Engine/Source",
+		"output": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Plugins/FBXToNanite/Intermediate/Build/Win64/x64/UnrealEditor/Development/FBXToNaniteEditor/UImageUtils.cpp.obj"
+	},
+	{
+		"file": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Source/NaniteConverterEditor/Commandlets/FBXToNaniteCommandlet.cpp",
+		"command": "\"C:/Program Files/LLVM/bin/clang-cl.exe\" @\"C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/NaniteConverterEditor/FBXToNaniteCommandlet.cpp.obj.rsp\"",
+		"directory": "C:/Program Files/Epic Games/UE_5.4/Engine/Source",
+		"output": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/NaniteConverterEditor/FBXToNaniteCommandlet.cpp.obj"
+	},
+	{
+		"file": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Source/NaniteConverterEditor/NaniteConverterEditor.cpp",
+		"command": "\"C:/Program Files/LLVM/bin/clang-cl.exe\" @\"C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/NaniteConverterEditor/NaniteConverterEditor.cpp.obj.rsp\"",
+		"directory": "C:/Program Files/Epic Games/UE_5.4/Engine/Source",
+		"output": "C:/_Trabajo_y_utilidades/UnrealProjects/NaniteConverterPortable/Project/Intermediate/Build/Win64/x64/UnrealEditor/Development/NaniteConverterEditor/NaniteConverterEditor.cpp.obj"
+	}
+]

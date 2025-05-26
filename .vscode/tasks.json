@@ -1,0 +1,31 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build NaniteConverterEditor",
+      "type": "shell",
+      "command": "C:/Program Files/Epic Games/UE_5.4/Engine/Build/BatchFiles/Build.bat",
+      "args": [
+        "NaniteConverterEditor",
+        "Win64",
+        "Development",
+        "-Project=${workspaceFolder}/NaniteConverter.uproject",
+        "-WaitMutex",
+        "-FromMsBuild"
+      ],
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "Abrir Unreal Editor",
+      "type": "shell",
+      "command": "C:/Program Files/Epic Games/UE_5.4/Engine/Binaries/Win64/UnrealEditor.exe",
+      "args": [
+        "${workspaceFolder}/NaniteConverter.uproject"
+      ]
+    }
+  ]
+}

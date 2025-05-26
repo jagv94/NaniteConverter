@@ -1,0 +1,38 @@
+{
+    "FileVersion": 3,
+    "EngineAssociation": "5.4",
+    "Category": "",
+    "Description": "",
+    "Modules": [
+		{
+		  "Name": "NaniteConverterEditor",
+		  "Type": "Editor",
+		  "LoadingPhase": "Default"
+		}
+	],
+    "Plugins": [
+        {
+            "Name": "EditorScriptingUtilities",
+            "Enabled": true
+        },
+		{
+			"Name": "VorbisAudioDecoder",
+			"Enabled": false
+		},
+		{
+			"Name": "AudioFormatOgg",
+			"Enabled": false
+		},
+		{
+            "Name": "VREditor",
+            "Enabled": false
+        },
+        {
+            "Name": "ViewportInteraction",
+            "Enabled": false
+        }
+    ],
+	"DisableModules": [
+        "Landscape"
+    ]
+}

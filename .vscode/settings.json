@@ -1,0 +1,16 @@
+{
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+  "C_Cpp.default.compileCommands": "${workspaceFolder}/compile_commands.json",
+  "C_Cpp.intelliSenseEngine": "default",
+  "C_Cpp.default.includePath": [
+    "${workspaceFolder}/**"
+  ],
+  "cmake.compileCommands": "${workspaceFolder}/compile_commands.json",
+  "editor.formatOnSave": false,
+  "files.associations": {
+    "*.generated.h": "cpp",
+    "CoreMinimal.h": "cpp",
+    "EngineMinimal.h": "cpp"
+  },
+  "UEIntelliSenseFixes.EnableFixes": true
+}
