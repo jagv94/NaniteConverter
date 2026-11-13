@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Local editor / build files (not part of the project)
+.vscode/
+compile_commands.json
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
